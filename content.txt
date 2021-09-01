@@ -1,0 +1,5 @@
+BICYCLE: dif bikes, diff brands
+B-PARTS: parts, brands, groupsets
+B-RENTALS: with complete requirements
+SERVICES: BIKE FITTING
+commects and feedbacks : reviews
